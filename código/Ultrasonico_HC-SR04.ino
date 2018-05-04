@@ -1,6 +1,4 @@
 /*
-  Geardo SG
-  Sensor Ultrasonico
   Conexiones HC-SR04
   VCC   Arduino 5v
   GND   Arduino GND
